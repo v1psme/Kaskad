@@ -48,7 +48,7 @@ ports).
 
 ```bash
 wget -O rednetline-cascade.sh \
-  https://raw.githubusercontent.com/<your-repo>/main/rednetline-cascade.sh
+  https://raw.githubusercontent.com/v1psme/Kaskad/master/rednetline-cascade.sh
 chmod +x rednetline-cascade.sh
 ./rednetline-cascade.sh install
 ```
