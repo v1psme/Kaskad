@@ -47,7 +47,7 @@ RDP, нестандартные порты).
 
 ```bash
 wget -O rednetline-cascade.sh \
-  https://raw.githubusercontent.com/v1psme/Kaskad/master/rednetline-cascade.sh
+  https://raw.githubusercontent.com/v1psme/Kaskad/main/rednetline-cascade.sh
 chmod +x rednetline-cascade.sh
 ./rednetline-cascade.sh install
 ```
